@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/toshko3331/TPEngine/Software-Rendering/src'
+let g:netrw_dirhist_2='/home/toshko3331/Desktop/InanLampphonyTPEnigneTry/TPEngine/Software-Rendering/src'
+let g:netrw_dirhist_3='/home/toshko3331/Desktop/TakePicturesAndVIdsForSchool/rotation'
+let g:netrw_dirhist_4='/home/toshko3331/Desktop/C++FunStuff'
+let g:netrw_dirhist_5='/home/toshko3331/Desktop/C++FunStuff/InherticancePracatice'
+let g:netrw_dirhist_6='/home/toshko3331/Desktop/C++FunStuff'
